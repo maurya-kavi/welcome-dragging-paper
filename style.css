@@ -1,0 +1,129 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    /* background-image:url("https://images6.alphacoders.com/547/547415.jpg"); */
+    /* background-color: black; */
+}
+
+.container{
+    background-color: #fff;
+}
+
+h2{
+    display: flex;
+   justify-content: center;
+   /* padding: 10rem; */
+   margin-top: 20rem;
+   
+   font-size: 4rem;
+   color: rgb(246, 9, 9);
+   font-style: italic;
+   /* background-color: black; */
+}
+#no{
+    margin-left: 50%;
+    /* justify-content: center; */
+    margin-top: 1rem;
+    margin-right: 15px;
+    font-size: 1rem;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+#yes{
+    /* justify-content: center; */
+    margin-top: 1rem;
+    font-size: 1rem;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+div{
+    display: flex;
+    /* border: 2px solid black; */
+}
+
+.yes{
+    margin-left: 35%;
+    justify-content: center;
+}
+.no{
+    margin-left: 25%;
+    justify-content: center;
+}
+
+img{
+    margin-top: 1.5rem;
+    height: 30px;
+    width: 30px;
+}
+
+#img{
+     margin-top: 25%;
+     /* margin-right: %; */
+    /* margin-left: 0px; */ 
+    justify-content: center;
+}
+
+.welcome{
+    color: black;
+    background-color: yellow;
+    margin-top: 20rem; 
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.control{
+    margin-top: 10%;
+    display: inline-block;
+    /* margin-right: 0px; */
+    margin-left: 90%;
+    border: 2px solid black;
+    background-color: rgb(184, 221, 82);
+}
+
+.option{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    /* margin: 5px; */
+    text-decoration: none;
+}
+#index{
+    text-decoration: none;
+    margin-right: 20px;
+    border: 2px solid black ;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: lightblue;
+
+}
+#drag{
+    text-decoration: none;
+    border: 2px solid black ;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: lightblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
